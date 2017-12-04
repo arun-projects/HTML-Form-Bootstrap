@@ -1,4 +1,4 @@
-# HTML Form
+# HTML Form Bootstrap
 
 - In this lab we will be practicing HTML tags by building a HTML form.
 - Open index.html in your code editor.
